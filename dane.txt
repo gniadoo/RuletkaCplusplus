@@ -1,0 +1,2 @@
+POP_2018_12_12_projekt_1_Gniadek_Jakub_EIT_5_171778
+DEV-C++ 5.11 TDM-GCC 4.9.2
